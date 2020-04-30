@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: tCube
+Version: 0.1
+Summary: Automated Unit Test Generator
+Home-page: https://github.com/Andranik1994/tCube
+Author: Andranik Alajajyan
+Author-email: andranik.alajajyan@gmail.com
+License: UNKNOWN
+Description: # tCube
+        Automated Unit Test Generator
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
